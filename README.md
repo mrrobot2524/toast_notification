@@ -26,3 +26,4 @@ Clean and minimal UI
 Easy to integrate into any web project
 
 ## Demo
+Vercel - https://toast-notification-fawn.vercel.app/
